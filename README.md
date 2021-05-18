@@ -1,3 +1,5 @@
 # my-task-manager
 
-Consolidation Challenge about algorithme
+Consolidation Challenge about algorithmes
+
+Big summary about a task management tool 
